@@ -2,16 +2,17 @@
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
--
--
--
--
--
--
--
--
--
--
+- Funções
+- Tipos de Dados II
+- Gestão de tempo
+- Tpo de Utilitários
+- Metodos de String
+- Curriculo e carta de apresentação
+- Métodos de Arrays
+- Métodos de Arrays II
+- Linkedin
+- Métodos de Arrays III
+  
 
 ### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
