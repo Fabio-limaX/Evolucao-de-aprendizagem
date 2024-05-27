@@ -29,8 +29,7 @@
 -
 -
 
-### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
-
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
 
 
 -
