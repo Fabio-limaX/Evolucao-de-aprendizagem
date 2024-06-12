@@ -14,7 +14,6 @@
 - Linkedin
 - Métodos de Arrays III
   
-
 ### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - Funções: Tenho uma noção básica de como usar funções para modularizar e organizar o código.
@@ -41,4 +40,4 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
 
-- 
+### 
