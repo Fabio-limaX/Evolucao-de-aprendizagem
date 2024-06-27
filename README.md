@@ -39,3 +39,6 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - Métodos de Arrays II: Aprofundei meu conhecimento sobre métodos de arrays, aprendendo a realizar operações complexas com dados.
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
+
+
+
