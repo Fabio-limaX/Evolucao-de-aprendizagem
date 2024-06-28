@@ -27,6 +27,28 @@
 - LinkedIn: Tenho um perfil básico no LinkedIn, mas preciso melhorar e otimizar.
 - Métodos de Arrays III: Conheço alguns métodos avançados, mas quero aprofundar meu conhecimento.
 
+### o que eu quero aprender 
+
+- Funções: Quero entender como criar funções mais complexas e explorar funções de ordem superior (higher-order functions). Aprender a usar essas funções pode me ajudar a tornar meu código mais modular e eficiente.
+
+- Tipos de Dados II: Estou interessado em aprofundar meu conhecimento sobre tipos de dados avançados em JavaScript, como objetos e arrays multidimensionais. Também quero entender melhor como a coerção de tipos e o sistema de tipagem dinâmica funcionam.
+
+- Gestão de Tempo: Quero aprender técnicas avançadas de gestão de tempo, como o método Pomodoro e outras técnicas de priorização de tarefas. Além disso, estou interessado em descobrir ferramentas de produtividade que possam me ajudar a otimizar meu tempo e ser mais eficiente.
+
+- Tipos Utilitários: Gostaria de entender melhor os tipos utilitários em JavaScript, como Partial, Readonly, Record, Pick, Omit, e Exclude. Quero aprender como usar esses tipos para manipular e transformar dados de maneira mais eficaz.
+
+- Métodos de Strings: Quero explorar métodos de manipulação de strings mais avançados e aprender a usar expressões regulares (regex) para realizar manipulações de texto mais complexas.
+
+- Currículo e Carta de Apresentação: Gostaria de saber como criar um currículo e uma carta de apresentação que se destaquem. Quero aprender técnicas para adaptar esses documentos para diferentes vagas e setores, tornando-os mais atraentes para os recrutadores.
+
+- Métodos de Arrays: Quero consolidar meu entendimento sobre os métodos básicos de arrays e aprender a aplicar esses métodos em projetos reais.
+
+- Métodos de Arrays II: Quero entender melhor como usar métodos como map, filter e reduce em situações mais complexas. Também quero aprender a combinar esses métodos para resolver problemas de manipulação de dados de maneira eficiente.
+
+- LinkedIn: Estou interessado em otimizar meu perfil no LinkedIn. Quero aprender a criar e compartilhar conteúdo relevante e usar a plataforma para fazer networking e encontrar oportunidades de carreira de maneira estratégica.
+
+- Métodos de Arrays III: Quero explorar métodos avançados de arrays, como flatMap e reduceRight, e aprender a aplicá-los para resolver problemas complexos de manipulação de dados de forma eficiente.
+
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
 
 - Funções: Aprendi a usar funções de maneira mais eficaz para modularizar o código, tornando-o mais organizado e reutilizável.
@@ -39,6 +61,3 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - Métodos de Arrays II: Aprofundei meu conhecimento sobre métodos de arrays, aprendendo a realizar operações complexas com dados.
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
-
-
-
