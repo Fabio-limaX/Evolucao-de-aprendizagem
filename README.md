@@ -1,9 +1,9 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
 
+# Modulo 02
 
-<summary>Modulo M02</summary>
-
+# Modulo 03
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -66,3 +66,14 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - Métodos de Arrays II: Aprofundei meu conhecimento sobre métodos de arrays, aprendendo a realizar operações complexas com dados.
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
+
+# modulo 04
+
+# modulo 05
+
+# modulo 06 
+
+
+
+
+
