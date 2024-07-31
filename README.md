@@ -194,7 +194,7 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Fabio-limaX/evolucao-de-aprendizagem.git
+   git clone git@github.com:Fabio-limaX/Evolucao-de-aprendizagem.git
 
 ## 🤝 Contribuições
 
