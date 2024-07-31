@@ -133,16 +133,14 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
   
 ### Conteúdos a serem trabalhados nesse módulo:
 
-- 
--
--
--
--
--
--
--
--
--
+- Metodologias ágeis
+- Consultas SQL
+- Modelagem de Dados
+- Diversidade e inclusão em tecnologia
+- CRUD SQL
+- Agrupamento e Relacionamento entre Tabelas
+- Marca Pessoal e Plano de Carreira
+
 
 ### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
