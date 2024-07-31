@@ -1,14 +1,17 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-
-# Modulo 02  
+# Modulo 02
+<details>
+<summary>[Modulo 02] Condeúdo de aprendizagem </summary>
+  
+</details>
 
 
 # Modulo 03
-
+<details>
+<summary>[Modulo 03] Condeúdo de aprendizagem </summary>
+  
 ### Conteúdos a serem trabalhados nesse módulo:
-
-
 - Funções
 - Tipos de Dados II
 - Gestão de tempo
@@ -68,11 +71,26 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
 
+</details>
+  
 # modulo 04
+<details>
+<summary>[Modulo 04] Condeúdo de aprendizagem </summary>
+  
+</details>
 
 # modulo 05
+<details>
+<summary>[Modulo 05] Condeúdo de aprendizagem </summary>
+  
+</details>
 
 # modulo 06 
+<details>
+<summary>[Modulo 06] Condeúdo de aprendizagem </summary>
+  
+</details>
+
 
 
 
