@@ -11,7 +11,7 @@ Este repositório foi criado para acompanhar meu progresso e aprendizado em dife
 ## 🗂️ Estrutura do Repositório
 
 <details>
-<summary>📘 [Modulo 02] Conteúdo de Aprendizagem </summary>
+<summary>📘 [Modulo 02]</summary>
   
 ### Conteúdos a serem trabalhados nesse módulo: 📚
 - Funções
@@ -67,7 +67,7 @@ Este repositório foi criado para acompanhar meu progresso e aprendizado em dife
 </details>
 
 <details>
-<summary>📗 [Modulo 03] Tópicos Avançados </summary>
+<summary>📗 [Modulo 03]</summary>
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -125,7 +125,7 @@ Este repositório foi criado para acompanhar meu progresso e aprendizado em dife
 </details>
   
 <details>
-<summary> 📙[Modulo 04] Projetos Práticos </summary>
+<summary> 📙 [Modulo 04]</summary>
   
 ### Conteúdos a serem trabalhados nesse módulo:
 
