@@ -1,8 +1,13 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Modulo 02
+# Evolução de Aprendizagem
+
+Bem-vindo ao meu repositório de Evolução de Aprendizagem! Este repositório documenta minha jornada de aprendizado em diversas áreas de desenvolvimento e habilidades profissionais.
+
+## Estrutura do Repositório
+
 <details>
-<summary>[Modulo 02] Condeúdo de aprendizagem </summary>
+<summary>[Modulo 02] Conteúdo de Aprendizagem </summary>
   
 ### Conteúdos a serem trabalhados nesse módulo:
 - Funções
@@ -63,14 +68,11 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - Métodos de Arrays II: Aprofundei meu conhecimento sobre métodos de arrays, aprendendo a realizar operações complexas com dados.
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
-  
-
+- 
 </details>
 
-
-# Modulo 03
 <details>
-<summary>[Modulo 03] Condeúdo de aprendizagem </summary>
+<summary>[Modulo 03] Tópicos Avançados </summary>
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -127,9 +129,8 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 
 </details>
   
-# modulo 04
 <details>
-<summary>[Modulo 04] Condeúdo de aprendizagem </summary>
+<summary>[Modulo 04] Projetos Práticos </summary>
   
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -182,6 +183,8 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 
   
 </details>
+
+.... e muito mais!
 
 
 
