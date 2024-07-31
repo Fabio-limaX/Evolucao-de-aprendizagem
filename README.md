@@ -1,4 +1,4 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](https://imgur.com/zdoxHJO.png)
 
 # 🌱 Evolução de Aprendizagem
 
