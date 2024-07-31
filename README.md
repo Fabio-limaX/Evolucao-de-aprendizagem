@@ -4,13 +4,6 @@
 <details>
 <summary>[Modulo 02] Condeúdo de aprendizagem </summary>
   
-</details>
-
-
-# Modulo 03
-<details>
-<summary>[Modulo 03] Condeúdo de aprendizagem </summary>
-  
 ### Conteúdos a serem trabalhados nesse módulo:
 - Funções
 - Tipos de Dados II
@@ -70,6 +63,67 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 - Métodos de Arrays II: Aprofundei meu conhecimento sobre métodos de arrays, aprendendo a realizar operações complexas com dados.
 - LinkedIn: Construí um perfil profissional atraente e eficaz no LinkedIn, aumentando minhas conexões na comunidade de tecnologia.
 - Métodos de Arrays III: Explorei métodos avançados de arrays que tornaram a manipulação de dados mais eficiente e rápida.
+  
+
+</details>
+
+
+# Modulo 03
+<details>
+<summary>[Modulo 03] Condeúdo de aprendizagem </summary>
+
+### Conteúdos a serem trabalhados nesse módulo:
+
+- Teste Automatizados
+- Primeiro servidor
+- Github 
+- Rotas, intermediários e Controladores
+- API REST
+- Comunicação
+- Orientação a Objetos
+- Pesquisa e leitura de documentações
+- Asincronismo e Leitura e Escrita em arquivos
+- Autoconhecimento e Inteligencia Emocional
+- Tratamento de erros com Herança e Polimorfismo
+- Tendências em Tecnologia
+
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### o que eu quero aprender 
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
+
+-
+-
+-
+-
+-
+-
+-
 
 </details>
   
@@ -77,19 +131,60 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 <details>
 <summary>[Modulo 04] Condeúdo de aprendizagem </summary>
   
-</details>
+### Conteúdos a serem trabalhados nesse módulo:
 
-# modulo 05
-<details>
-<summary>[Modulo 05] Condeúdo de aprendizagem </summary>
+- 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### o que eu quero aprender 
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
+
+-
+-
+-
+-
+-
+-
+-
+
   
 </details>
 
-# modulo 06 
-<details>
-<summary>[Modulo 06] Condeúdo de aprendizagem </summary>
-  
-</details>
 
 
 
