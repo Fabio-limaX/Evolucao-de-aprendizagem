@@ -140,43 +140,34 @@ Este repositório foi criado para acompanhar meu progresso e aprendizado em dife
 
 ### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
--
--
--
--
--
--
--
--
--
--
--
--
+- Metodologias Ágeis: Tenho conhecimento básico sobre Scrum, incluindo as roles, eventos e artefatos. Também conheço os conceitos de Kanban e o uso de quadros Kanban.
+- Consultas SQL: Sei realizar consultas básicas com SELECT, WHERE, ORDER BY, e usar funções agregadas como `COUNT`, `SUM`, `AVG`, `MAX`, e `MIN`.
+- Modelagem de Dados: Tenho noção dos conceitos básicos de entidades, atributos e relacionamentos, e sei criar diagramas de entidade-relacionamento simples.
+- Diversidade e Inclusão em Tecnologia: Compreendo a importância da diversidade e inclusão, e tenho noções básicas sobre vieses inconscientes.
+- CRUD SQL: Conheço as operações básicas de criação (`INSERT`), leitura (`SELECT`), atualização (`UPDATE`) e exclusão (`DELETE`) de dados.
+- Agrupamento e Relacionamento entre Tabelas: Sei usar joins (``INNER JOIN, `LEFT JOIN`, `RIGHT JOIN`) e o comando `GROUP BY` para agrupar dados.
+- Marca Pessoal e Plano de Carreira: Tenho um currículo básico e um perfil no LinkedIn, mas preciso aprimorá-los.
 
 ### o que eu quero aprender 
 
--
--
--
--
--
--
--
--
--
--
+- Metodologias Ágeis: Quero entender a implementação prática de Scrum e Kanban em projetos reais, aprender sobre ferramentas de suporte (como Jira e Trello) e explorar outras metodologias ágeis, como Extreme Programming (XP).
+- Consultas SQL: Desejo aprender sobre subqueries, joins complexos, CTEs (Common Table Expressions), técnicas de indexação e otimização de consultas, além de criação e uso de stored procedures.
+- Modelagem de Dados: Quero aprofundar meus conhecimentos sobre normalização de dados, modelagem avançada (tabelas de fatos e dimensões), e aprender a usar ferramentas de modelagem como MySQL Workbench.
+- Diversidade e Inclusão em Tecnologia: Estou interessado em práticas eficazes de inclusão, entender os benefícios da diversidade para inovação e performance, e estudar casos de sucesso em empresas que implementaram essas práticas.
+- CRUD SQL: Quero aprender sobre transações para garantir a integridade dos dados e como lidar com acessos simultâneos aos dados (controle de concorrência).
+- Agrupamento e Relacionamento entre Tabelas: Desejo explorar joins avançados (`FULL OUTER JOIN`, `CROSS JOIN`) e aprender a aplicar agrupamento e relacionamentos em consultas mais complexas.
+- Marca Pessoal e Plano de Carreira: Quero desenvolver minha marca pessoal, aprender a criar um currículo e carta de apresentação atraentes, otimizar meu perfil no LinkedIn e elaborar um plano de carreira detalhado.
 
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
 
--
--
--
--
--
--
--
+- Metodologias Ágeis: Aprendi a aplicar Scrum e Kanban em projetos reais, utilizando ferramentas como Jira e Trello. Explorei metodologias como XP, aprimorando a gestão ágil.
+- Consultas SQL: Dominei consultas avançadas, incluindo subqueries e joins complexos. Aprendi técnicas de otimização de consultas e a criar stored procedures.
+- Modelagem de Dados: Aprofundei meu conhecimento sobre normalização e modelagem avançada, utilizando ferramentas como MySQL Workbench para criar diagramas detalhados.
+- Diversidade e Inclusão em Tecnologia: Adquiri práticas eficazes de inclusão, compreendi os benefícios da diversidade e estudei casos de sucesso em empresas.
+- CRUD SQL: Aprendi a implementar transações para garantir a integridade dos dados e a lidar com acessos simultâneos.
+- Agrupamento e Relacionamento entre Tabelas: Explorei joins avançados e técnicas de agrupamento em consultas complexas, melhorando a manipulação de dados relacionais.
+- Marca Pessoal e Plano de Carreira: Desenvolvi uma marca pessoal forte, criei um currículo e uma carta de apresentação eficazes, otimizei meu perfil no LinkedIn e elaborei um plano de carreira detalhado.
 
-  
 </details>
 
 .... e muito mais!
