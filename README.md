@@ -86,41 +86,48 @@ Este repositório foi criado para acompanhar meu progresso e aprendizado em dife
 
 ### O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
--
--
--
--
--
--
--
--
--
--
--
--
+- Testes Automatizados: Conheço a importância dos testes automatizados e tenho noções básicas sobre frameworks como Jest e Mocha.
+- Primeiro Servidor: Já configurei servidores simples usando Node.js e Express.
+- GitHub: Tenho conhecimento básico sobre controle de versão com Git e como usar repositórios no GitHub.
+- Rotas, Intermediários e Controladores: Sei criar rotas básicas em Express, usar middleware para manipulação de requisições e definir controladores simples.
+API REST: Entendo os princípios básicos das APIs RESTful, incluindo métodos HTTP (GET, POST, PUT, DELETE).
+Comunicação: Tenho noção básica sobre a importância da comunicação eficaz em equipes.
+Orientação a Objetos: Compreendo os conceitos fundamentais de orientação a objetos, como classes, objetos, herança e encapsulamento.
+Pesquisa e Leitura de Documentações: Sei como buscar informações e ler documentações técnicas para resolver problemas.
+Asincronismo e Leitura e Escrita em Arquivos: Tenho noções básicas sobre operações assíncronas em JavaScript e leitura/escrita de arquivos usando Node.js.
+Autoconhecimento e Inteligência Emocional: Tenho uma compreensão básica da importância do autoconhecimento e da inteligência emocional no ambiente de trabalho.
+Tratamento de Erros com Herança e Polimorfismo: Sei como tratar erros básicos em JavaScript e tenho uma compreensão básica de herança e polimorfismo.
+Tendências em Tecnologia: Estou ciente das tendências atuais em tecnologia, mas não tenho um conhecimento profundo sobre elas.
 
 ### o que eu quero aprender 
 
--
--
--
--
--
--
--
--
--
--
+Testes Automatizados: Quero aprender a escrever testes eficazes usando frameworks como Jest e Mocha, entender TDD (Test-Driven Development) e integrar testes em pipelines CI/CD.
+Primeiro Servidor: Desejo aprofundar meus conhecimentos sobre configuração e otimização de servidores, incluindo segurança e escalabilidade.
+GitHub: Quero dominar o uso avançado de Git e GitHub, incluindo branching, pull requests, code reviews e integração contínua.
+Rotas, Intermediários e Controladores: Quero entender como criar rotas complexas, usar middleware para autenticação e autorização, e estruturar controladores de forma modular e escalável.
+API REST: Desejo aprender a projetar e implementar APIs RESTful robustas, incluindo versionamento, documentação e melhores práticas de segurança.
+Comunicação: Quero melhorar minhas habilidades de comunicação, aprender técnicas de comunicação assertiva e eficaz em equipes de desenvolvimento.
+Orientação a Objetos: Desejo aprofundar meu conhecimento sobre padrões de design orientado a objetos, SOLID principles e design patterns.
+Pesquisa e Leitura de Documentações: Quero melhorar minhas habilidades de pesquisa e leitura de documentações técnicas, aprendendo a extrair informações de forma mais eficiente.
+Asincronismo e Leitura e Escrita em Arquivos: Desejo dominar as operações assíncronas em JavaScript, incluindo Promises, async/await, e aprender técnicas avançadas de manipulação de arquivos.
+Autoconhecimento e Inteligência Emocional: Quero desenvolver melhor autoconhecimento e inteligência emocional, aprender técnicas para gerenciar emoções e melhorar o relacionamento interpessoal.
+Tratamento de Erros com Herança e Polimorfismo: Desejo aprender técnicas avançadas de tratamento de erros, entender herança e polimorfismo em profundidade e como aplicar esses conceitos em projetos reais.
+Tendências em Tecnologia: Quero me manter atualizado sobre as últimas tendências em tecnologia, entender como elas impactam o mercado e aprender a adaptar minhas habilidades para se alinhar a essas tendências.
 
 ### Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
 
--
--
--
--
--
--
--
+Testes Automatizados: Aprendi a escrever testes unitários e de integração eficazes usando Jest e Mocha, e a implementar TDD em meus projetos.
+Primeiro Servidor: Aprofundei meus conhecimentos sobre configuração, segurança e otimização de servidores, incluindo práticas de escalabilidade.
+GitHub: Dominei o uso avançado de Git e GitHub, incluindo workflows de branching, pull requests, code reviews e integração contínua com CI/CD.
+Rotas, Intermediários e Controladores: Aprendi a criar rotas complexas, usar middleware para autenticação e autorização, e estruturar controladores de forma modular.
+API REST: Aprendi a projetar e implementar APIs RESTful robustas, incluindo versionamento, documentação e práticas de segurança.
+Comunicação: Melhorei minhas habilidades de comunicação, aplicando técnicas de comunicação assertiva e eficaz em equipes de desenvolvimento.
+Orientação a Objetos: Aprofundei meu conhecimento sobre padrões de design orientado a objetos, SOLID principles e design patterns.
+Pesquisa e Leitura de Documentações: Melhorei minhas habilidades de pesquisa e leitura de documentações técnicas, conseguindo extrair informações de forma mais eficiente.
+Asincronismo e Leitura e Escrita em Arquivos: Dominei as operações assíncronas em JavaScript, incluindo Promises e async/await, e aprendi técnicas avançadas de manipulação de arquivos.
+Autoconhecimento e Inteligência Emocional: Desenvolvi melhor autoconhecimento e inteligência emocional, aplicando técnicas para gerenciar emoções e melhorar o relacionamento interpessoal.
+Tratamento de Erros com Herança e Polimorfismo: Aprendi técnicas avançadas de tratamento de erros, entendi herança e polimorfismo em profundidade, aplicando esses conceitos em projetos reais.
+Tendências em Tecnologia: Me mantive atualizado sobre as últimas tendências em tecnologia, entendi como elas impactam o mercado e adaptei minhas habilidades para se alinhar a essas tendências.
 
 </details>
   
