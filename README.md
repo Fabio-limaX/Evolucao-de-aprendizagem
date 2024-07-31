@@ -186,9 +186,10 @@ Currículo e Carta de Apresentação: Melhorei significativamente meu currículo
 
 .... e muito mais!
 
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, por favor abra uma issue ou faça um pull request. Siga as diretrizes de contribuição listadas no arquivo CONTRIBUTING.md.
 
 
-
-
-
-
+## Agradecimentos
+Agradeço a todos que me apoiaram nesta jornada, especialmente aos autores dos recursos listados na seção de Recursos Adicionais.
