@@ -6,6 +6,7 @@ Bem-vindo ao meu repositório de Evolução de Aprendizagem! Este repositório d
 
 ## ✨ Introdução
 
+
 Este repositório foi criado para acompanhar meu progresso e aprendizado em diferentes tópicos, desde fundamentos de programação até habilidades de gestão de tempo e otimização de perfil profissional. Meu objetivo é não apenas aprender, mas também compartilhar recursos e métodos que me ajudaram ao longo do caminho.
 
 ## 🗂️ Estrutura do Repositório
